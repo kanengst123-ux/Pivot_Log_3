@@ -1,0 +1,5 @@
+{
+  "name": "PivotAI Explorer",
+  "description": "Analyze the connected Google Sheet with dynamic pivot tables, charts, and an AI-powered data analyst.",
+  "requestFramePermissions": []
+}
